@@ -1,0 +1,12 @@
+ÁøÈ£½Ü blog : http://blog.naver.com/zino1187
+https://www.w3schools.com/
+½Ö¿ë±³À°:http://sist.co.kr/job/index.do?c=11
+oracle tutor: https://www.techonthenet.com/oracle/index.php
+java api : http://docs.oracle.com/javase/8/docs/api/
+maria db : https://mariadb.org/
+¹®ÀÚÇ¥±â : http://stackoverflow.com/questions/6817262/how-to-display-html-tags-as-plain-text
+java download : http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
+
+java api : http://docs.oracle.com/javase/8/docs/api/
+
+java ¿¹Á¦ : https://docs.oracle.com/javase/tutorial/uiswing/components/text.html
